@@ -62,6 +62,17 @@
         { "name": "net.minecrell:terminalconsoleappender:1.2.0", "downloads": { "artifact": { "path": "net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar", "url": "https://maven.minecraftforge.net/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar", "sha1": "96d02cd3b384ff015a8fef4223bcb4ccf1717c95", "size": 15977 } } },
         { "name": "net.sf.jopt-simple:jopt-simple:5.0.4", "downloads": { "artifact": { "path": "net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar", "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar", "sha1": "4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c", "size": 78146 } } },
         { "name": "org.spongepowered:mixin:0.8.4", "downloads": { "artifact": { "path": "org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar", "url": "https://maven.minecraftforge.net/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar", "sha1": "04ec7d77d9ab32596ca0b78bb123956734767e3a", "size": 1069391 } } },
-        { "name": "net.minecraftforge:nashorn-core-compat:15.1.1.1", "downloads": { "artifact": { "path": "net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar", "url": "https://maven.minecraftforge.net/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar", "sha1": "1817deb38a5a8811148dca0d23161d92bdbd6184", "size": 2194057 } } }
+        { "name": "net.minecraftforge:nashorn-core-compat:15.1.1.1", "downloads": { "artifact": { "path": "net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar", "url": "https://maven.minecraftforge.net/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar", "sha1": "1817deb38a5a8811148dca0d23161d92bdbd6184", "size": 2194057 } } },
+        {
+            "name": "com.google.guava:guava:21.0",
+            "downloads": {
+                "artifact": {
+                    "path": "com/google/guava/guava/21.0/guava-21.0.jar",
+                    "url": "https://libraries.minecraft.net/com/google/guava/guava/21.0/guava-21.0.jar",
+                    "sha1": "3a3d111be1be1b745edfa7d91678a12d7ed38709",
+                    "size": 2521113
+                }
+            }
+        }
     ]
 }
