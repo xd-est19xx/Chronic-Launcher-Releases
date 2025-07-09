@@ -1,0 +1,7 @@
+{
+  "id": "chronic-pixelmon",
+  "inheritsFrom": "1.16.5-forge-36.2.42",
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker",
+  "type": "release"
+}
