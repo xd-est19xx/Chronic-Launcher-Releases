@@ -1,10 +1,18 @@
 {
+    "_comment_": [
+        "Please do not automate the download and installation of Forge.",
+        "Our efforts are supported by ads from the download page.",
+        "If you MUST automate this, please consider supporting the project through https://www.patreon.com/LexManos/"
+    ],
     "id": "1.16.5-forge-36.2.42",
-    "inheritsFrom": "1.16.5",
-    "time": "2021-12-14T15:24:14-05:00",
-    "releaseTime": "2021-12-14T15:24:14-05:00",
+    "time": "2024-03-05T19:18:18+00:00",
+    "releaseTime": "2024-03-05T19:18:18+00:00",
     "type": "release",
     "mainClass": "cpw.mods.modlauncher.Launcher",
+    "inheritsFrom": "1.16.5",
+    "logging": {
+        
+    },
     "arguments": {
         "game": [
             "--launchTarget",
@@ -19,19 +27,10 @@
             "20210115.111550"
         ],
         "jvm": [
-            "-Dforge.logging.jansi=false",
-            "-Dforge.logging.console.level=debug",
-            {
-                "rules": [
-                    {
-                        "action": "allow",
-                        "os": {
-                            "name": "osx"
-                        }
-                    }
-                ],
-                "value": "-XstartOnFirstThread"
-            }
+            "-XX:+IgnoreUnrecognizedVMOptions",
+            "--add-exports=java.base/sun.security.util=ALL-UNNAMED",
+            "--add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming",
+            "--add-opens=java.base/java.util.jar=ALL-UNNAMED"
         ]
     },
     "libraries": [
