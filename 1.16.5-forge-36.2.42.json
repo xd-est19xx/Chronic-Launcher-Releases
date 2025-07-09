@@ -35,13 +35,13 @@
     },
     "libraries": [
         {
-            "name": "net.minecraftforge:forge:1.16.5-36.2.42:universal",
+            "name": "net.minecraftforge:forge:1.16.5-36.2.42",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar",
-                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar",
-                    "sha1": "fd07fe6c2c1cc7d3e403a1db7eadfa935ca7640d",
-                    "size": 2540080
+                    "path": "net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42.jar",
+                    "url": "https://raw.githubusercontent.com/xd-est19xx/Chronic-Launcher-Releases/main/forge-1.16.5-36.2.42.jar",
+                    "sha1": "caca08d22543cbe101d64d171738e1ff6eef4de3",
+                    "size": 212563
                 }
             }
         },
