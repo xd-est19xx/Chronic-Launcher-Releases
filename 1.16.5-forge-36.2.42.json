@@ -39,7 +39,7 @@
             "downloads": {
                 "artifact": {
                     "path": "net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42.jar",
-                    "url": "",
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar",
                     "sha1": "caca08d22543cbe101d64d171738e1ff6eef4de3",
                     "size": 212563
                 }
