@@ -28,17 +28,6 @@
     },
     "libraries": [
         {
-            "name": "net.minecraft:client:1.16.5",
-            "downloads": {
-                "artifact": {
-                    "path": "net/minecraft/client/1.16.5/client-1.16.5.jar",
-                    "url": "https://launcher.mojang.com/v1/objects/374c207bf54a6a589e472251a129037843407953/client.jar",
-                    "sha1": "374c207bf54a6a589e472251a129037843407953",
-                    "size": 32332865
-                }
-            }
-        },
-        {
             "name": "net.minecraftforge:forge:1.16.5-36.2.42:universal",
             "downloads": {
                 "artifact": {
